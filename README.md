@@ -1,4 +1,4 @@
-<img align="left" width="200" src="https://i.postimg.cc/5y7sGDJX/goku.jpg">
+<img align="left" width="150" height="150" src="https://i.postimg.cc/5y7sGDJX/goku.jpg">
 
 ### yashraj/readme.md
 
@@ -12,7 +12,7 @@
 • Web stack: React.js, Next.js, Node.js, Express
 • Love playing, creating content and reading books
 • portfolio: yashraj.me
-• total stars gained: 8+
+• total stars gained: 17
 ```
 
 <br clear="left"/>
