@@ -1,4 +1,4 @@
-<img align="left" width="268" src="https://i.postimg.cc/XYGjYy2N/download-(10).jpg">
+<img align="left" width="265" src="https://i.postimg.cc/XYGjYy2N/download-(10).jpg">
 
 #### ~yashrajvrma
 
