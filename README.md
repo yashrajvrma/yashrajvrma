@@ -1,4 +1,4 @@
-<img align="left" width="200" src="https://camo.githubusercontent.com/917f52929dde70f6f9e6d7212f93bc4bd1aff13c758a3486825baa9e29d689d1/68747470733a2f2f692e726564642e69742f6837646165346f30756b3436312e6a7067">
+<img align="left" width="200" src="https://i.postimg.cc/5y7sGDJX/goku.jpg">
 
 ### yashraj/readme.md
 
