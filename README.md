@@ -11,7 +11,7 @@
 • 🗄️ Database <span style="color:orange">:</span> PostgreSQL, Redis, Prisma  
 • 🔧 Tools <span style="color:orange">:</span> Git, Docker, Postman, Linux , AWS, Azure   
 • 📚 Hobbies <span style="color:orange">:</span> Playing, creating content & reading books  
-• 🔗 Portfolio <span style="color:orange">:</span> <a href="https://yashrajvrma.vercel.app" target="_blank">yashraj.me</a>  
+• 🔗 Portfolio <span style="color:orange">:</span> <a href="https://yashrajvrma.vercel.app" target="_blank">click me</a>  
 • ⭐ Total stars gained <span style="color:orange">:</span> 17  
 
 <p align="left">
